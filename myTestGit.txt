@@ -2,3 +2,4 @@ Git is a distributed version control system.
 Git is free software distrubuted underthe GPL gaibian3.
 jia ru ceshi san!!!!
 jia ru di wuci xiugai!!!!
+di 6ci tijiaoxiugai!!!
